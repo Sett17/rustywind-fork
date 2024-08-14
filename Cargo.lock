@@ -853,7 +853,7 @@ dependencies = [
  "once_cell",
  "rayon",
  "regex",
- "rustywind_core",
+ "rustywind_core 0.1.0",
  "rustywind_vite",
  "serde",
  "serde_json",
@@ -882,7 +882,7 @@ dependencies = [
  "once_cell",
  "regex",
  "rustls",
- "rustywind_core",
+ "rustywind_core 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "ureq",
 ]
 
